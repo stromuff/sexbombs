@@ -18,7 +18,7 @@ mongo = PyMongo(app)
 
 @app.route('/')
 def index():
-    return 'Sexbombs'
+    return 'Welcome to sexbomb'
 
 if __name__ == '__main__':
     app.run()
