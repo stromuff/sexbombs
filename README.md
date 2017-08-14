@@ -31,8 +31,6 @@ Pivoting:
 - Dating WebApp with the same features but focused on one-on-one sexy electronic flirting
 - Match + Flirt + Meet
 
-##
-
 ## Bombs Structure
 id : <Bomb_ID> <br>
 level : <level_of_exposure> <br>
