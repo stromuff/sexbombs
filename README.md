@@ -13,10 +13,10 @@
 
 ## Bombs Structure
 id : <Bomb_ID> <br>
-level : <level_of_exposure>
-bomb : <the_tasks_to_be_performed>
-gender : <task_for_which_gender>
-no_of_participants : <number_of_participant_could_play>
+level : <level_of_exposure> <br>
+bomb : <the_tasks_to_be_performed> <br>
+gender : <task_for_which_gender> <br>
+no_of_participants : <number_of_participant_could_play> <br>
 
 ## User Management
 
