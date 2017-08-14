@@ -12,11 +12,11 @@
 2. Adding New biim
 
 ## Bombs Structure
-> id : <Bomb_ID>
-> level : <level_of_exposure>
-> bomb : <the_tasks_to_be_performed>
-> gender : <task_for_which_gender>
-> no_of_participants : <number_of_participant_could_play>
+id : <Bomb_ID> <br>
+level : <level_of_exposure>
+bomb : <the_tasks_to_be_performed>
+gender : <task_for_which_gender>
+no_of_participants : <number_of_participant_could_play>
 
 ## User Management
 
